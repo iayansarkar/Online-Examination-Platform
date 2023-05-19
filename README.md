@@ -1,2 +1,2 @@
-# Online-Examination-Portal
+# Online-Examination-Platform
 sdsd
